@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e41a074-2373-49fc-bd1a-85a1cce148ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kA7rfRK9Ma8VHlq9IenS6C5Co4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e41a074-2373-49fc-bd1a-85a1cce148ea" name="Default Changelist" comment="" />
+      <created>1605131741399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605131741399</updated>
+      <workItem from="1605131743918" duration="3760000" />
+      <workItem from="1605136481029" duration="546000" />
+      <workItem from="1605557862904" duration="114000" />
+      <workItem from="1605558025286" duration="48000" />
+      <workItem from="1605654993352" duration="22000" />
+      <workItem from="1605655285572" duration="1737000" />
+      <workItem from="1605665806322" duration="1039000" />
+      <workItem from="1605669434338" duration="2435000" />
+      <workItem from="1605726976582" duration="297000" />
+      <workItem from="1605898596737" duration="683000" />
+      <workItem from="1605899410930" duration="2539000" />
+      <workItem from="1607385196087" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/neuralnet_part2.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
